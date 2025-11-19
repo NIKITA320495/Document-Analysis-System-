@@ -1,0 +1,34 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large model files - download separately
+bert_doc_classifier_model/
+bert_document_classifier/
+bert_embeddings/
+chroma_db/
+*.keras
+*.pkl
+
+# Dataset
+DATASET/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
