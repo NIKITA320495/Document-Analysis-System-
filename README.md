@@ -2,8 +2,6 @@
 
 A sophisticated document analysis platform that combines machine learning classification, topic modeling, and RAG (Retrieval-Augmented Generation) for intelligent PDF document processing and question answering.
 
-**Created by:** Piyush (06419051922) & Nikita Babbar (02319051922) - AIDS-B1
-
 ## 🌟 Features
 
 ### 📊 Document Classification
